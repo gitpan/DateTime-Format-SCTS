@@ -1,0 +1,30 @@
+Build.PL
+Changes
+lib/DateTime/Format/SCTS.pm
+LICENSE
+Makefile.PL
+MANIFEST			This list of files
+MANIFEST.SKIP
+META.json
+META.yml
+README
+t/010_parse.t
+t/020_format.t
+t/030_parse_error.t
+t/test.pl
+xt/check_changes.t
+xt/consistent_version_numbers.t
+xt/copyright.t
+xt/cover.pl
+xt/distribution.t
+xt/kwalitee.t
+xt/minimumversion.t
+xt/perlcritic.t
+xt/perlcriticrc
+xt/pod_coverage.t
+xt/pod_spell.t
+xt/pod_spellrc
+xt/pod_syntax.t
+xt/signature.t
+SIGNATURE    Added here by Module::Build
+SIGNATURE    Added here by Module::Build
